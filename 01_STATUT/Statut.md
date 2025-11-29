@@ -3,8 +3,6 @@ U skladu sa odredbama čl. 11. i 12. Zakona o udruženjima („Sl. glasnik RS”
 # S T A T U T
 ## „Studentske organizacije Proton Elektrotehničkog fakulteta u Beogradu”
 
----
-
 # OPŠTE ODREDBE
 
 ## Član 1.

@@ -20,7 +20,7 @@ Svi dokumenti su pisani u **Markdown (`.md`)** formatu. To je jednostavan tekstu
 | `02_PRAVILNICI/` | Interni pravilnici koji regulišu rad. |
 | `03_ODLUKE/` | Važne odluke Skupštine, Upravnog i Izvršnog odbora, kao i drugih nadležnih organa. |
 | `04_REGISTRACIJA/` | Službeni dokumenti izdati od strane državnih organa. |
-| `05_ZAPISNICI/` | Zvanični zapisnici sa sednica Skupštine organizacije. |
+| `05_ZAPISNICI/` | Zvanični zapisnici sa sednica Skupštine. |
 
 **➡️ Uvek se smatra važećom verzija dokumenta koja se nalazi direktno u folderima `01_STATUT/`, `02_PRAVILNICI/` itd. (npr. `Statut_Vazeci.md`).**
 
