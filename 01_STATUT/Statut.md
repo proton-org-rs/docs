@@ -101,8 +101,8 @@ Udruženje ima svojstvo pravnog lica sa pravima, obavezama i odgovornostima koji
 2. da aktivno učestvuje i doprinosi radu Udruženja.
 
 ## Član 12.
-* Članstvo u Udruženju prestaje gubitkom statusa studenta ETF-a, istupanjem člana, odlukom Skupštine Udruženja ili iz drugih razloga predviđenih Zakonom.
-* U slučaju da je postupanje člana u suprotnosti sa ciljevima usvojenim ovim Statutom, ometa njihovu realizaciju, protivi se pravilima ponašanja proapisanim internim pravilnicima udruženja ili šteti ugledu Udruženja, odlukom Izvršnog odbora, uz valjan razlog i adekvatno obrazloženje, njegovo članstvo može biti zamrznuto.
+* Članstvo u Udruženju prestaje gubitkom statusa studenta ETF-a, istupanjem člana, odlukom Skupštine Udruženja ili iz drugih razloga predviđenih zakonom.
+* U slučaju da je postupanje člana u suprotnosti sa ciljevima usvojenim ovim Statutom, ometa njihovu realizaciju, protivi se pravilima ponašanja propisanim internim pravilnicima udruženja ili šteti ugledu Udruženja, odlukom Izvršnog odbora, uz valjan razlog i adekvatno obrazloženje, njegovo članstvo može biti zamrznuto.
 * Članstvo Predsednika Izvršnog odbora, Predsednika Upravnog odbora i Generalnog sekretara Udruženja ne može biti zamrznuto.
 * Ukoliko Izvršni odbor odluči da zamrzne članstvo nekog člana, u obavezi je da o toj odluci obavesti Generalnog sekretara Udruženja.
 * Generalni sekretar Udruženja u obavezi je da na prvoj narednoj sednici Skupštine na dnevni red sednice postavi tačku rasprave o statusu članstva ranije pomenutog člana.
@@ -239,10 +239,10 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 
 ## Član 25.
 * Udruženje ima svoj tekući račun.
-* Potpisnik tekućeg računa je Predsednik Upravnog odbora Generalni sekretar Udruženja, koji je u skladu sa ovim Statutom ovlašćeno lice za vođenje materijalnog i finansijskog poslovanja u skladu sa finansijskim planom koji usvoji Skupština Udruženja, kao i u skladu sa važećim finansijskim propisima.
+* Potpisnik tekućeg računa je Predsednik Upravnog odbora, koji je u skladu sa ovim Statutom ovlašćeno lice za vođenje materijalnog i finansijskog poslovanja u skladu sa finansijskim planom koji usvoji Skupština Udruženja, kao i u skladu sa važećim finansijskim propisima.
 
 ## Član 26.
-* Udruženje može da pribavlja finansijska sredstva obavljanjem privredne delatnosti računarskog programiranja (šifra delatnosti 62.01) bez raspodele dobiti članovima.
+* Udruženje može da pribavlja finansijska sredstva obavljanjem privredne delatnosti bez raspodele dobiti članovima.
 * Ostvareni prihodi iz ove delatnosti koriste se isključivo za finansiranje aktivnosti koje doprinose ostvarenju misije i ciljeva Udruženja, u skladu sa Zakonom o udruženjima.
 * O upravljanju ovim prihodima, datumu početka obavljanja delatnosti i preciziranju tačne delatnosti kojom se Udruženje bavi odlučuje Skupština Udruženja u skladu sa finansijskim planom i opštim interesima Udruženja.
 
