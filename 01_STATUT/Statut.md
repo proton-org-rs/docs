@@ -66,7 +66,7 @@ Udruženje ima svojstvo pravnog lica sa pravima, obavezama i odgovornostima koji
 
 ## Član 9.
 * Član Udruženja može biti isključivo student ETF-a koji prihvata Statut i organe Udruženja, bez obzira na rasu, boju kože, pretke, državljanstvo, nacionalnu pripadnost i etničko poreklo, jezik, verska i politička ubeđenja, pol, rodni identitet, seksualnu orijentaciju, imovno stanje, rođenje, genetske osobenosti, zdravstveno stanje, invaliditet, bračni i porodični status, osuđivanost, starosnu dob, izgled, članstvo u sindikalnoj i drugoj organizaciji, i drugim stvarima u skladu sa zakonom kojim se uređuje zabrana diskriminacije.
-* Članstvo se deli na priključeno i punopravno.
+* Članstvo se deli na pridruženo i punopravno.
 * Pridruženo članstvo se stiče dobrovoljnim pristupanjem popunjavanjem pristupnice u fizičkom ili elektronskom formatu.
 * Punopravno članstvo se stiče većinskom odlukom Skupštine Udruženja na predlog Generalnog sekretara Udruženja.
 
@@ -77,7 +77,6 @@ Udruženje ima svojstvo pravnog lica sa pravima, obavezama i odgovornostima koji
 
 * Pridruženi član koji nije ispunio prvi uslov za sticanje statusa punopravnog člana može dobiti status punopravnog člana ako Predsednik Upravnog odbora ili Predsednik Izvršnog odbora Generalnom sekretaru Udruženja podnesu predlog za njegovo unapređenje, a Skupština ga odobri.
 * Ako pridruženi član ispunjava navedene uslove, Generalni sekretar je dužan da na prvoj narednoj redovnoj sednici Skupštine Udruženja predloži tog člana za sticanje statusa punopravnog člana.
-* Ukoliko se tokom sednice Skupštine ne utvrdi da je član na bilo koji način ugrozio postojanje, ugled i rad Udruženja, ni na koji način nije prekršio Statut Udruženja niti jedno od pravila propisanih pravilnicima Udruženja, Skupština Udruženja u obavezi je da status člana unapredi iz pridruženog u punopravni.
 * Svi članovi Osnivačke skupštine automatski imaju status punopravnih članova.
 
 ## Član 10.
