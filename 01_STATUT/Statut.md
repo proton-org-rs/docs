@@ -198,7 +198,9 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 4. potpisuje opšta akta i odluke Skupštine;
 5. predstavlja ovlašćeno lice Udruženja za vođenje materijalnog i finansijskog poslovanja Udruženja;
 6. vrši nadzor nad rukovođenjem finansija Udruženja;
-7. vrši ostale poslove predviđene ovim Statutom i Zakonom, ili dodeljenim od strane Skupštine Udruženja.
+7. po sopstvenoj volji organizuje i određuje unutrašnju podelu rada Upravnog odbora;
+8. vrši ostale poslove predviđene ovim Statutom i Zakonom, ili dodeljenim od strane Skupštine Udruženja.
+
 
 ## Član 20.
 * Izvršni odbor je izvršni organ Udruženja, koji sprovodi godišnji plan rada Udruženja i odluke Skupštine Udruženja.
@@ -214,7 +216,9 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 2. zakazuje redovne sastanke Izvršnog odbora;
 3. po potrebi zakazuje sastanke između članova Udruženja;
 4. bira i razrešava članove Izvršnog odbora Udruženja;
-5. vrši i druge poslove utvrđene Zakonom, ovim Statutom i odlukama Skupštine.
+5. snosi konačnu odgovornost za izvršenje godišnjeg plana rada;
+6. po sopstvenoj volji organizuje i određuje unutrašnju podelu rada Upravnog odbora;
+7. vrši i druge poslove utvrđene Zakonom, ovim Statutom i odlukama Skupštine.
 
 ## Član 22a.
 * Generalni sekretar Udruženja je član Upravnog odbora Udruženja sa specijalnim nadležnostima i zadacima.
