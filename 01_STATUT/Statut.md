@@ -133,8 +133,10 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 * Broj mandata svakog pojedinog člana Udruženja na funkcijama unutar organa Udruženja nije ograničen.
 * Predsednik Upravnog odbora i Predsednik Izvršnog odbora biraju se i razrešavaju od strane Skupštine Udruženja.
 * Članovi Upravnog odbora biraju se i razrešavaju od strane Predsednika Upravnog odbora.
+* Članovi Upravnog odbora mogu biti svi članovi Udruženja, uključujući pridružene i punopravne članove.
 * Za vreme trajanja mandata kao članovi Upravnog odbora ne učestvuje se u radu drugih organa Udruženja, izuzev Skupštine Udruženja.
 * Članovi Izvršnog odbora biraju se i razrešavaju od strane Predsednika Izvršnog odbora.
+* Članovi Izvršnog odbora mogu biti svi članovi Udruženja, uključujući pridružene i punopravne članove.
 * Za vreme trajanja mandata kao članovi Izvršnog odbora ne učestvuje se u radu drugih organa Udruženja, izuzev Skupštine Udruženja.
 
 ## Član 15.
@@ -265,6 +267,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 ## Član 22c.
 * Sekretarijat funkcioniše kao savetodavno telo koje pruža podršku Generalnom sekretaru u ispunjavanju njegovih obaveza.
 * Radom Sekretarijata rukovodi Generalni sekretar Udruženja.
+* Članovi Sekretarijata mogu biti svi članovi Udruženja, uključujući pridružene i punopravne članove.
 * Sekretarijat je dužan da, na zahtev Generalnog sekretara, obezbedi administrativnu, organizacionu i stručnu pomoć u poslovima iz nadležnosti Generalnog sekretara.
 
 ## Član 23.
