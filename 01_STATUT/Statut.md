@@ -170,6 +170,17 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 * Skupština ima pravo da delegira svoju moć odlučivanja po određenim pitanjima odgovarajućim organima Udruženja.
 * Odluke donete od strane organa Udruženja koje bi inače potpadale pod nadležnost Skupštine, moraju biti potvrđene na prvoj sednici Skupštine održanoj nakon što je pomenuta odluka doneta.
 
+## Član 16a.
+* U slučaju neophodnosti donošenja hitne odluke iz nadležnosti Skupštine, kada ne postoji dovoljno vremena za sazivanje sednice niti za elektronsko glasanje, primenjuje se postupak hitnog odlučivanja.
+* Predlog hitne odluke može podneti Predsednik Izvršnog odbora ili Generalni sekretar Predsedniku Upravnog odbora, uz detaljno pisano obrazloženje razloga hitnosti.
+* Konačnu hitnu odluku donosi isključivo Predsednik Upravnog odbora, s obzirom da snosi pravnu odgovornost za zakonitost poslovanja Udruženja.
+* Hitna odluka stupa na snagu odmah po donošenju.
+* Predsednik Upravnog odbora dužan je da o donetoj hitnoj odluci obavesti sve članove Skupštine u najkraćem mogućem roku, najkasnije u roku od dvadeset četiri časa od donošenja odluke.
+* Sve hitne odluke moraju biti razmotrene i potvrđene na prvoj narednoj sednici Skupštine.
+* Za potvrđivanje hitne odluke potrebna je ista većina koja bi bila potrebna za donošenje te odluke na redovnoj sednici Skupštine.
+* Ukoliko Skupština ne potvrdi hitnu odluku, ona prestaje da važi od momenta donošenja odluke o nepotvrđivanju, osim ako Skupština ne odluči drugačije.
+* Postupkom hitnog odlučivanja ne mogu se donositi odluke o: izmeni ili dopuni Statuta, prestanku rada Udruženja, statusnim promenama Udruženja, izboru ili razrešenju Predsednika Upravnog odbora, Predsednika Izvršnog odbora ili Generalnog sekretara, niti odluke koje bi imale trajne i nepopravljive posledice za Udruženje.
+
 ## Član 17.
 * Skupština je sačinjena od punopravnih članova Udruženja biranih na način opisan u Pravilniku o izboru članova Skupštine.
 * Maksimalan broj članova Skupštine ograničen je na 30.
