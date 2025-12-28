@@ -127,7 +127,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 # UPRAVLJANJE I ORGANI UPRAVLJANJA
 
 ## Član 14.
-* Organi Udruženja utvrđuju se kao Skupština, Upravni odbor sa Predsednikom, Izvršni odbor sa Predsednikom i Generalni sekretar.
+* Organi Udruženja utvrđuju se kao Skupština, Upravni odbor sa Predsednikom, Izvršni odbor sa Predsednikom, Generalni sekretar i Sekretarijat.
 * U organe Udruženja mogu biti birani isključivo studenti ETF-a, koji pritom nisu više od dva puta bili upisani u istu godinu studija i imaju prosečnu ocenu tokom studiranja 7,5 ili višu.
 * Mandat članova organa upravljanja traje najduže godinu dana.
 * Broj mandata svakog pojedinog člana Udruženja na funkcijama unutar organa Udruženja nije ograničen.
@@ -188,6 +188,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 * Mandati članova Upravnog odbora traju isto koliko i mandat Predsednika Upravnog odbora.
 * Bivši članovi Upravnog odbora imaju pravo da budu birani na istu funkciju neograničen broj puta.
 * Prestanak obavljanja dužnosti Predsednika Upravnog odbora podrazumeva i raspuštanje članova Upravnog odbora sa te funkcije.
+* U slučaju ostavke Predsednika Upravnog odbora, raspuštanje Upravnog odbora stupa na snagu danom prijema ostavke; vanredni izbor Predsednika Upravnog odbora zakazuje se i sprovodi na prvoj narednoj sednici Skupštine, a najkasnije u roku od trideset dana; do izbora novog Predsednika Upravnog odbora privremeno zastupanje Udruženja sprovodi se u skladu sa članom 23. ovog Statuta.
 
 ## Član 19.
 **Predsednik Upravnog odbora Udruženja:**
@@ -205,6 +206,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 * Mandati članova Izvršnog odbora traju isto koliko i mandat Predsednika Izvršnog odbora.
 * Bivši članovi Izvršnog odbora imaju pravo da budu birani na istu funkciju neograničen broj puta.
 * Prestanak obavljanja dužnosti Predsednika Izvršnog odbora podrazumeva i raspuštanje članova Izvršnog odbora sa te funkcije.
+* U slučaju ostavke Predsednika Izvršnog odbora, raspuštanje Izvršnog odbora stupa na snagu danom prijema ostavke; vanredni izbor Predsednika Izvršnog odbora zakazuje se i sprovodi na prvoj narednoj sednici Skupštine, a najkasnije u roku od trideset dana; privremeno obavljanje tekućih operativnih poslova poverava se Generalnom sekretaru u koordinaciji sa Skupštinom do izbora novog Predsednika Izvršnog odbora.
 
 ## Član 21.
 **Predsednik Izvršnog odbora Udruženja:**
@@ -221,6 +223,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 * Mandat Generalnog sekretara ne može biti skraćen niti produžen jednostranom odlukom Predsednika Upravnog odbora.
 * Za postupak razrešenja Generalnog sekretara nadležna je Skupština.
 * Predlog za razrešenje Generalnog sekretara mogu podneti Predsednik Upravnog odbora, Predsednik Izvršnog odbora ili najmanje jedna trećina članova Skupštine, uz adekvatno obrazloženje.
+* U slučaju ostavke Generalnog sekretara, privremeno obavljanje njegovih nadležnosti poverava se Predsedniku Upravnog odbora do izbora novog Generalnog sekretara; vanredni izbor Generalnog sekretara sprovodi se na prvoj narednoj sednici Skupštine, a najkasnije u roku od trideset dana od dana prijema ostavke.
 
 ## Član 22b.
 **Generalni sekretar Udruženja:**
@@ -232,6 +235,11 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 6. prati prisutnost članova na sednicama Skupštine i registruje odsustva u zapisniku;
 7. odlučuje o pokretanju postupka za naknadu štete u slučajevima iz člana 25. stav 2. Zakona o udruženjima i, po potrebi, određuje posebnog zastupnika udruženja za taj postupak;
 8. vrši ostale poslove predviđene odlukom Skupštine, ovim Statutom i Zakonom.
+
+## Član 22c.
+* Sekretarijat funkcioniše kao savetodavno telo koje pruža podršku Generalnom sekretaru u ispunjavanju njegovih obaveza.
+* Radom Sekretarijata rukovodi Generalni sekretar Udruženja.
+* Sekretarijat je dužan da, na zahtev Generalnog sekretara, obezbedi administrativnu, organizacionu i stručnu pomoć u poslovima iz nadležnosti Generalnog sekretara.
 
 ## Član 23.
 * U slučaju ostavke ili razrešenja pravnog zastupnika Udruženja, privremeni pravni zastupnik se određuje sledećim redosledom:
