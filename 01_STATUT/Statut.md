@@ -264,7 +264,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 3. po potrebi zakazuje sastanke između članova Udruženja;
 4. bira i razrešava članove Izvršnog odbora Udruženja;
 5. snosi konačnu odgovornost za izvršenje godišnjeg plana rada;
-6. po sopstvenoj volji organizuje i određuje unutrašnju podelu rada Upravnog odbora;
+6. po sopstvenoj volji organizuje i određuje unutrašnju podelu rada Izvršnog odbora;
 7. vrši i druge poslove utvrđene Zakonom, ovim Statutom i odlukama Skupštine.
 
 ## Član 22a.
