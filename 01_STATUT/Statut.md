@@ -26,8 +26,7 @@ Udruženje ima svojstvo pravnog lica sa pravima, obavezama i odgovornostima koji
 * Pečat Udruženja je okruglog oblika prečnika 30 milimetara. Po gornjoj i donjoj ivici pečata štampanim slovima ćiriličnog pisma ispisano je Студентска организација Протон Електротехничког факултета у Београду, razdvojeno dvema tačkama, dok se u sredini nalazi logotip.
 
 ## Član 5.
-* Saradnja u okviru programskih aktivnosti, radi ostvarivanja ciljeva i zadataka, ostvaruje se sa sličnim organizacijama i udruženjima u zemlji i inostranstvu.
-* Saradnja se ostvaruje sa studentskim organizacijama drugih fakulteta, viših škola i studentskih domova.
+* Saradnja u okviru programskih aktivnosti, radi ostvarivanja ciljeva i zadataka, ostvaruje se sa sličnim organizacijama i udruženjima u zemlji i inostranstvu, kao i drugim fizičkim i pravnim licima koje dele vrednosti Udruženja.
 
 ## Član 6.
 * Rad Udruženja je javan.
