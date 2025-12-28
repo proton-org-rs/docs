@@ -8,7 +8,7 @@ U skladu sa odredbama čl. 11. i 12. Zakona o udruženjima („Sl. glasnik RS”
 # OPŠTE ODREDBE
 
 ## Član 1.
-Студентска организација Протон Електротехничког факултета у Београду u Beogradu (u daljem tekstu: Udruženje) je nevladino i neprofitno samostalno udruženje građana, konkretno studenata Elektrotehničkog fakulteta Univerziteta u Beogradu (u daljem tekstu: ETF), osnovano na neodređeno vreme radi ostvarivanja ciljeva u oblasti zaštite prava i interesa studenata Elektrotehničkog fakulteta u Beogradu.
+Студентска организација Протон Електротехничког факултета у Београду (u daljem tekstu: Udruženje) je nevladino i neprofitno samostalno udruženje građana, konkretno studenata Elektrotehničkog fakulteta Univerziteta u Beogradu (u daljem tekstu: ETF), osnovano na neodređeno vreme radi ostvarivanja ciljeva u oblasti zaštite prava i interesa studenata Elektrotehničkog fakulteta u Beogradu.
 
 ## Član 2.
 Ovim Statutom se utvrđuju ciljevi i zadaci, prava i obaveze članova Udruženja, unutrašnja struktura i organizacija, načini izbora u organe Udruženja, i druga pitanja u vezi sa radom Udruženja.
