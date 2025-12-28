@@ -23,7 +23,7 @@ Udruženje ima svojstvo pravnog lica sa pravima, obavezama i odgovornostima koji
 * Sedište Udruženja nalazi se u prostorijama Elektrotehničkog fakulteta u Beogradu, opština Palilula, Bulevar kralja Aleksandra 73.
 * Delatnost Udruženja ostvaruje se na teritoriji Republike Srbije.
 * Logotip Udruženja utvrđuje se kao: okruglog oblika, u centru se nalazi skica Raterfordovog modela atoma, dominantno ljubičaste i žute boje.
-* Pečat Udruženja je okruglog oblika prečnika 30 milimetra. Po gornjoj i donjoj ivici pečata štampanim slovima ćiriličnog pisma ispisano je Студентска организација Протон Електротехничког факултета у Београду, razdvojeno dvema tačkama, dok se u sredini nalazi logotip.
+* Pečat Udruženja je okruglog oblika prečnika 30 milimetara. Po gornjoj i donjoj ivici pečata štampanim slovima ćiriličnog pisma ispisano je Студентска организација Протон Електротехничког факултета у Београду, razdvojeno dvema tačkama, dok se u sredini nalazi logotip.
 
 ## Član 5.
 * Saradnja u okviru programskih aktivnosti, radi ostvarivanja ciljeva i zadataka, ostvaruje se sa sličnim organizacijama i udruženjima u zemlji i inostranstvu.
