@@ -101,7 +101,7 @@ Udruženje ima svojstvo pravnog lica sa pravima, obavezama i odgovornostima koji
 
 ## Član 12.
 * Članstvo u Udruženju prestaje gubitkom statusa studenta ETF-a, istupanjem člana, odlukom Skupštine Udruženja ili iz drugih razloga predviđenih zakonom.
-* U slučaju da je postupanje člana u suprotnosti sa ciljevima usvojenim ovim Statutom, ometa njihovu realizaciju, protivi se pravilima ponašanja propisanim internim pravilnicima udruženja ili šteti ugledu Udruženja, odlukom Izvršnog odbora, uz valjan razlog i adekvatno obrazloženje, njegovo članstvo može biti zamrznuto.
+* U slučaju da je postupanje člana u suprotnosti sa ciljevima usvojenim ovim Statutom, ometa njihovu realizaciju, protivi se pravilima ponašanja propisanim internim pravilnicima Udruženja ili šteti ugledu Udruženja, odlukom Izvršnog odbora, uz valjan razlog i adekvatno obrazloženje, njegovo članstvo može biti zamrznuto.
 * Članstvo Predsednika Izvršnog odbora, Predsednika Upravnog odbora i Generalnog sekretara Udruženja ne može biti zamrznuto.
 * Ukoliko Izvršni odbor odluči da zamrzne članstvo nekog člana, u obavezi je da o toj odluci obavesti Generalnog sekretara Udruženja.
 * Generalni sekretar Udruženja u obavezi je da na prvoj narednoj sednici Skupštine na dnevni red sednice postavi tačku rasprave o statusu članstva ranije pomenutog člana.
