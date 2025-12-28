@@ -154,6 +154,18 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 * Administrativne i tehničke poslove tokom sednice obavlja Generalni sekretar.
 * Ukoliko Generalni sekretar nije prisutan na sednici, njegove administrativne i tehničke poslove obavlja član Skupštine koga odredi osoba koja rukovodi sednicom.
 
+## Član 15b.
+* Sednica Skupštine može se održati u elektronskoj formi.
+* Elektronska sednica sadrži sve elemente redovne sednice Skupštine, uključujući dnevni red, diskusiju i glasanje.
+* Inicijativa za održavanje elektronske sednice može biti pokrenuta na isti način kao i za redovnu sednicu.
+* Elektronska sednica sprovodi se dostavljanjem elektronske forme sa dnevnim redom i pitanjima za glasanje svim članovima Skupštine.
+* Diskusija među članovima Skupštine vodi se putem službene mejling liste Skupštine ili druge elektronske komunikacione platforme određene od strane Predsednika Upravnog odbora.
+* Period za diskusiju traje osam časova od momenta dostavljanja elektronske forme.
+* Period za glasanje traje šesnaest časova i počinje odmah po isteku perioda za diskusiju.
+* Za punovažnost odluka donetih na elektronskoj sednici primenjuju se ista pravila kvoruma i većine kao i za fizičku sednicu Skupštine.
+* Generalni sekretar sačinjava zapisnik elektronske sednice koji sadrži dnevni red, ključne tačke diskusije, rezultate glasanja i donete odluke.
+* Elektronska sednica ne može se koristiti za izbor Predsednika Upravnog odbora i Predsednika Izvršnog odbora, koji se biraju tajnim glasanjem.
+
 ## Član 16.
 **Nadležnost Skupštine je da:**
 1. usvaja Statut, izmene i dopune Statuta Udruženja;
