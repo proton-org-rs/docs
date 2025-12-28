@@ -144,6 +144,14 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 * Vanredno zasedanje Skupštine zakazuje se po ukazanoj potrebi, uz odlučivanje samo o pitanjima zbog kojih je zasedanje zakazano.
 * Vanredno zasedanje može biti inicirano zahtevom upućenim Generalnom sekretaru Udruženja, u pisanoj ili elektronskoj formi, od strane Predsednika Upravnog odbora, Predsednika Izvršnog odbora, Generalnog sekretara ili najmanje jedne trećine svih članova Skupštine Udruženja.
 
+## Član 15a.
+* Sednicom Skupštine rukovodi Predsednik Upravnog odbora.
+* Predsednik Upravnog odbora može imenovati drugog člana Skupštine da rukovodi specifičnom sednicom.
+* Ukoliko Predsednik Upravnog odbora nije prisutan na sednici i nije imenovao zamenika, sednicom rukovodi Generalni sekretar.
+* Ukoliko ni Predsednik Upravnog odbora ni Generalni sekretar nisu prisutni i nije imenovan zamenik, sednicom rukovodi najstariji prisutni član Skupštine po stažu članstva u Udruženju.
+* Administrativne i tehničke poslove tokom sednice obavlja Generalni sekretar.
+* Ukoliko Generalni sekretar nije prisutan na sednici, njegove administrativne i tehničke poslove obavlja član Skupštine koga odredi osoba koja rukovodi sednicom.
+
 ## Član 16.
 **Nadležnost Skupštine je da:**
 1. usvaja Statut, izmene i dopune Statuta Udruženja;
