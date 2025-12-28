@@ -174,6 +174,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 * Glasanje u Skupštini je javno, osim u slučaju kada se sprovodi biranje Predsednika Upravnog i Izvršnog odbora kada se glasanje sprovodi tajno.
 * Kandidovanje za pozicije Predsednika Upravnog i Izvršnog odbora sprovodi se elektronskim putem, u rokovima propisanim Pravilnikom o izboru funkcionera Udruženja.
 * Prijave se podnose Generalnom sekretaru Udruženja.
+* Bilo koji član Udruženja može, na sopstveni zahtev, prisustvovati sednici Skupštine u svojstvu posmatrača, bez prava glasa i govora.
 
 ## Član 17a.
 * Tehnička procedura sprovođenja izbora za članove Skupštine i članove organa Udruženja definisana je Pravilnikom o izboru članova Skupštine.
