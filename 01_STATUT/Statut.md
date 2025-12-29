@@ -266,7 +266,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 6. po sopstvenoj volji organizuje i određuje unutrašnju podelu rada Izvršnog odbora;
 7. vrši i druge poslove utvrđene Zakonom, ovim Statutom i odlukama Skupštine.
 
-## Član 22a.
+## Član 22.
 * Generalni sekretar Udruženja je član Upravnog odbora Udruženja sa specijalnim nadležnostima i zadacima.
 * Mandat Generalnog sekretara Udruženja traje isto koliko i mandat Predsednika Upravnog odbora Udruženja.
 * Kandidata za Generalnog sekretara Udruženja predlaže Predsednik Upravnog odbora, a njegov mandat potvrđuje Skupština.
@@ -275,7 +275,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 * Predlog za razrešenje Generalnog sekretara mogu podneti Predsednik Upravnog odbora, Predsednik Izvršnog odbora ili najmanje jedna trećina članova Skupštine, uz adekvatno obrazloženje.
 * U slučaju ostavke Generalnog sekretara, privremeno obavljanje njegovih nadležnosti poverava se Predsedniku Upravnog odbora do izbora novog Generalnog sekretara; vanredni izbor Generalnog sekretara sprovodi se na prvoj narednoj sednici Skupštine, a najkasnije u roku od trideset dana od dana prijema ostavke.
 
-## Član 22b.
+## Član 22a.
 **Generalni sekretar Udruženja:**
 1. aktivno vodi evidenciju o materijalnom i finansijskom poslovanju Udruženja i redovno obavedava Predsednika Upravnog odbora o finansijskom i imovinskom stanju Udruženja;
 2. vodi redovnu evidenciju o članstvu u skladu sa Zakonom o udruženjima, i dostavlja Skupštini Udruženja aktuelnu evidenciju o članstvu najkasnije do 30. novembra za tekuću školsku godinu;
@@ -286,7 +286,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 7. odlučuje o pokretanju postupka za naknadu štete u slučajevima iz člana 25. stav 2. Zakona o udruženjima i, po potrebi, određuje posebnog zastupnika udruženja za taj postupak;
 8. vrši ostale poslove predviđene odlukom Skupštine, ovim Statutom i Zakonom.
 
-## Član 22c.
+## Član 22b.
 * Sekretarijat funkcioniše kao savetodavno telo koje pruža podršku Generalnom sekretaru u ispunjavanju njegovih obaveza.
 * Radom Sekretarijata rukovodi Generalni sekretar Udruženja.
 * Članovi Sekretarijata mogu biti svi članovi Udruženja, uključujući pridružene i punopravne članove.
