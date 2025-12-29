@@ -279,8 +279,6 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 8. vrši i druge poslove utvrđene Zakonom, ovim Statutom i odlukama Skupštine.
 
 ## Član 22.
-* Generalni sekretar Udruženja je član Upravnog odbora Udruženja sa specijalnim nadležnostima i zadacima.
-* Mandat Generalnog sekretara Udruženja traje isto koliko i mandat Predsednika Upravnog odbora Udruženja.
 * Kandidata za Generalnog sekretara Udruženja predlaže Predsednik Upravnog odbora, a njegov mandat potvrđuje Skupština.
 * Mandat Generalnog sekretara ne može biti skraćen niti produžen jednostranom odlukom Predsednika Upravnog odbora.
 * Za postupak razrešenja Generalnog sekretara nadležna je Skupština.
