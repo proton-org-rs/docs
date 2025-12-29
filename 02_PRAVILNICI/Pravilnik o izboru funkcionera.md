@@ -116,7 +116,7 @@ Pravilnik se primenjuje na redovne izbore funkcionera, kao i na vanredne izbore 
 * Glasanje za Generalnog sekretara može se sprovesti javno ili tajno, u zavisnosti od odluke Skupštine na samoj sednici.
 * Pre glasanja, kandidati imaju pravo da predstave svoje programe na sednici Skupštine u trajanju do deset minuta po kandidatu.
 * Nakon predstavljanja, održava se period pitanja i odgovora u trajanju do petnaest minuta po funkciji.
-* Glasanje organizuje i nadzire Generalni sekretar, uz pomoć najmanje dva člana Skupštine koje odredi osoba koja rukovodi sednicom.
+* Glasanje organizuje i nadzire Generalni sekretar, uz pomoć najmanje dva člana Skupštine koje odredi osoba koja rukovodi sednicom; ukoliko je Generalni sekretar kandidat za bilo koju funkciju koja se bira na toj sednici, izuzima se iz organizacije i nadzora, a ove poslove obavlja punopravni član koji nije kandidat, koga imenuje Predsednik Upravnog odbora i čije imenovanje se konstatuje u zapisniku pre početka glasanja.
 
 ## Član 14.
 * Za izbor Predsednika Upravnog odbora i Predsednika Izvršnog odbora potrebna je prosta većina glasova prisutnih članova Skupštine.

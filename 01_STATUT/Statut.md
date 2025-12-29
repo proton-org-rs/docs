@@ -164,6 +164,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 * Za punovažnost odluka donetih na elektronskoj sednici primenjuju se ista pravila kvoruma i većine kao i za fizičku sednicu Skupštine.
 * Generalni sekretar sačinjava zapisnik elektronske sednice koji sadrži dnevni red, ključne tačke diskusije, rezultate glasanja i donete odluke.
 * Elektronska sednica ne može se koristiti za izbor Predsednika Upravnog odbora i Predsednika Izvršnog odbora, koji se biraju tajnim glasanjem.
+* Elektronska sednica ne može se koristiti za izbor Generalnog sekretara, koji se sprovodi isključivo na fizičkoj sednici tajnim ili javnim glasanjem u skladu sa Pravilnikom o izboru funkcionera.
 
 ## Član 16.
 **Nadležnost Skupštine je da:**
@@ -210,7 +211,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 * Bilo koji član Udruženja može, na sopstveni zahtev, prisustvovati sednici Skupštine u svojstvu posmatrača, bez prava glasa i govora.
 
 ## Član 17a.
-* Tehnička procedura sprovođenja izbora za članove Skupštine i članove organa Udruženja definisana je Pravilnikom o izboru članova Skupštine.
+* Tehnička procedura sprovođenja izbora za članove Skupštine i članove organa Udruženja definisana je Pravilnikom o izboru članova Skupštine i Pravilnikom o izboru funkcionera.
 * Generalni sekretar Udruženja je lice zaduženo za sprovođenje izbornog procesa.
 * Kandidati za članstvo u Skupštini mogu biti samo punopravni članovi Udruženja.
 * Samo punopravni članovi Udruženja imaju pravo da glasaju na izborima za članove Skupštine.
@@ -220,7 +221,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 ## Član 17b.
 * Punomoćje za glasanje na sednici Skupštine može se izdati od strane člana Skupštine u korist drugog člana Skupštine.
 * Punomoćje se izdaje obaveštavanjem Generalnog sekretara u pisanoj ili elektronskoj formi najmanje četrdeset osam časova pre planiranog početka sednice.
-* Punomoćje se izdaje generalno i primalac punomoćja raspolaže glasom po sopstvenom nahođenju.
+* Punomoćje se izdaje generalno i primalac punomoćja raspolaže glasom po sopstvenom nahođenju, osim prilikom glasanja o izboru Predsednika Upravnog odbora i Predsednika Izvršnog odbora, kada punomoćje ne važi.
 * Jedan član Skupštine može primiti najviše dva punomoćja.
 * Na početku sednice, od strane Generalnog sekretara obaveštava se Skupština o tome koji su članovi delegirali svoje glasove drugim članovima.
 * Članovi koji su navedeni kao primaoci punomoćja dužni su da verbalno potvrde prihvatanje punomoćja.
@@ -229,6 +230,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 * Član koji je izdao punomoćje može prisustvovati sednici Skupštine sa pravom govora, ali bez prava glasa, s obzirom da punomoćje ostaje na snazi.
 * Primljeno punomoćje ne može se proslediti trećem članu Skupštine.
 * Punomoćje važi isključivo za sednicu za koju je izdato.
+* Kada se odlučuje o izboru funkcionera Udruženja, glasanje se sprovodi isključivo lično, bez mogućnosti izdavanja punomoćja.
 
 ## Član 17c.
 * Od trenutka raspisivanja izbora za funkcionere Udruženja (Predsednik Upravnog odbora, Predsednik Izvršnog odbora i Generalni sekretar) pa do potvrđivanja zapisnika Skupštine o konačnom izboru, mandat svih aktuelnih funkcionera prelazi u tehnički mandat ograničen na tekuće poslove i obezbeđivanje zakonitosti i kontinuiteta rada.
@@ -294,8 +296,9 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 5. predlaže dnevni red redovnih i vanrednih Skupština, uz prikupljanje kandidatura članova za funkcije u organima i Skupštini Udruženja;
 6. vodi evidenciju o donetim odlukama sa sednica Skupštine;
 7. prati prisutnost članova na sednicama Skupštine i registruje odsustva u zapisniku;
-8. odlučuje o pokretanju postupka za naknadu štete u slučajevima iz člana 25. stav 2. Zakona o udruženjima i, po potrebi, određuje posebnog zastupnika udruženja za taj postupak;
-9. vrši ostale poslove predviđene odlukom Skupštine, ovim Statutom i Zakonom.
+8. u slučaju sopstvene kandidature za funkciju za koju se sprovodi izbor, izuzima se iz svih operativnih radnji sprovođenja izbora i prenosi ih na lice imenovano u skladu sa članom 17c ovog Statuta, uz obavezu da Skupštinu obavesti o prenosu ovlašćenja;
+9. odlučuje o pokretanju postupka za naknadu štete u slučajevima iz člana 25. stav 2. Zakona o udruženjima i, po potrebi, određuje posebnog zastupnika udruženja za taj postupak;
+10. vrši ostale poslove predviđene odlukom Skupštine, ovim Statutom i Zakonom.
 
 ## Član 22b.
 * Sekretarijat funkcioniše kao savetodavno telo koje pruža podršku Generalnom sekretaru u ispunjavanju njegovih obaveza.
