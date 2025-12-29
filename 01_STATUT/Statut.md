@@ -301,6 +301,8 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 * Sekretarijat funkcioniše kao savetodavno telo koje pruža podršku Generalnom sekretaru u ispunjavanju njegovih obaveza.
 * Radom Sekretarijata rukovodi Generalni sekretar Udruženja.
 * Članovi Sekretarijata mogu biti svi članovi Udruženja, uključujući pridružene i punopravne članove.
+* Generalni sekretar raspisuje javni poziv članstvu i prikuplja prijave za Sekretarijat; nakon isteka roka od najmanje sedam dana, predlaže listu članova Sekretarijata koju potvrđuje Skupština prostom većinom prisutnih članova.
+* Mandat člana Sekretarijata traje do opoziva ili ostavke, a opoziv može predložiti Generalni sekretar ili najmanje jedna trećina članova Skupštine; Skupština odlučuje prostom većinom prisutnih članova.
 * Sekretarijat je dužan da, na zahtev Generalnog sekretara, obezbedi administrativnu, organizacionu i stručnu pomoć u poslovima iz nadležnosti Generalnog sekretara.
 
 ## Član 23.
