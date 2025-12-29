@@ -32,7 +32,7 @@ Pravilnik se primenjuje na redovne izbore članova Skupštine, kao i na vanredne
 
 ## Član 5.
 * Redovne izbore za članove Skupštine raspisuje Generalni sekretar Udruženja na početku akademske godine.
-* Raspisivanje izbora vrši se najkasnije do 15. oktobra tekuće godine.
+* Raspisivanje izbora vrši se najkasnije do 15. dana od početka tekuće akademske godine.
 * Vanredne izbore raspisuje Generalni sekretar Udruženja na obrazloženi predlog Predsednika Upravnog odbora ili najmanje jedne trećine članova Skupštine.
 * Obaveštenje o raspisivanju izbora dostavlja se svim punopravnim članovima Udruženja putem zvanične mejling liste, elektronske oglasne table i drugih komunikacionih kanala Udruženja.
 * Obaveštenje sadrži: datum početka i završetka kandidovanja, datum početka i završetka glasanja, broj mesta u Skupštini koji se popunjavaju, uslove za kandidovanje, i način podnošenja kandidature.
@@ -92,6 +92,7 @@ Pravilnik se primenjuje na redovne izbore članova Skupštine, kao i na vanredne
 ## Član 10.
 * Za punovažnost izbora potrebno je da glasa najmanje jedna trećina birača sa liste birača.
 * Ukoliko kvorum nije postignut, izbori se ponavljaju u roku od sedam dana.
+* Ukoliko se tokom dva uzastopna izborna ciklusa ne ispuni kvorum za glasanje, uslov postojanja kvoruma se briše za sve buduće cikluse do usvajanja zapisnika Skupštine sa novim članovima.
 * Za članove Skupštine biraju se kandidati koji su dobili najveći broj glasova, do popunjavanja svih mesta u Skupštini.
 * Ukoliko je broj kandidata koji ispunjavaju uslove manji od broja raspoloživih mesta, svi kandidati koji ispunjavaju uslove smatraju se izabranim nakon ispunjenja kvoruma za glasanje.
 * Preostala upražnjena mesta mogu se popuniti na sledećim redovnim izborima ili na vanrednim izborima.
