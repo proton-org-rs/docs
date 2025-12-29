@@ -196,6 +196,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 * Skupština je sačinjena od punopravnih članova Udruženja biranih na način opisan u Pravilniku o izboru članova Skupštine.
 * Maksimalan broj članova Skupštine ograničen je na 30.
 * Izbori za članove Skupštine sprovode se na početku svake akademske godine.
+* U periodu između raspisivanja izbora za članove Skupštine i početka mandata novog saziva Skupštine, aktuelni saziv Skupštine može zasedati u tehničkom mandatu tokom kog su ovlašćenja Skupštine ograničena na tekuće poslove i razmatranje pristiglih žalbi koje se odnose na aktuelni izborni proces.
 * Vanredni izbori za članove Skupštine mogu se raspisati na predlog Predsednika Upravnog odbora ili najmanje jedne trećine članova Skupštine.
 * U slučaju izmene odredbi Statuta koje se odnose na Skupštinu, Skupština se raspušta i raspisuju se vanredni izbori u skladu sa Pravilnikom o izboru članova Skupštine.
 * Svaki član Skupštine ima pravo na tačno jedan glas.
