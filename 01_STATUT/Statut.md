@@ -297,7 +297,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
     1. Generalni sekretar Udruženja;
     2. Punopravni član Udruženja sa najdužim stažem članstva;
     3. Pridruženi član Udruženja sa najdužim stažem članstva.
-* Zasedanje radi izbora novog stalnog pravnog zastupnika održava se u roku od 30 dana od prestanka vršenja dužnosti prethodnog zastupnika.
+* Zasedanje Skupštine radi izbora novog stalnog pravnog zastupnika održava se u roku od 30 dana od prestanka vršenja dužnosti prethodnog zastupnika.
 
 ---
 
@@ -309,7 +309,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 2. konkurisanjem po osnovu projekata kod državnih institucija i organizacija, nedržavnih organizacija, fondacija, udruženja;
 3. prikupljanjem članarina od članova Udruženja;
 4. od sopstvene imovine i poslovnih aktivnosti;
-5. iz drugih izvora u skladu sa Zakonom.
+5. iz drugih izvora u skladu sa zakonom.
 
 ## Član 25.
 * Udruženje ima svoj tekući račun.
