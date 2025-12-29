@@ -242,11 +242,12 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 1. zadužen je za pravilan rad Skupštine, što podrazumeva sazivanje zvaničnih zasedanja Skupštine pisanim obaveštenjem o mestu i vremenu održavanja, predlogu dnevnog reda i vođenje sednica;
 2. bira i razrešava članove Upravnog odbora Udruženja;
 3. predstavlja i pravno zastupa Udruženje;
-4. potpisuje opšta akta i odluke Skupštine;
-5. predstavlja ovlašćeno lice Udruženja za vođenje materijalnog i finansijskog poslovanja Udruženja;
-6. vrši nadzor nad rukovođenjem finansija Udruženja;
-7. po sopstvenoj volji organizuje i određuje unutrašnju podelu rada Upravnog odbora;
-8. vrši ostale poslove predviđene ovim Statutom i Zakonom, ili dodeljenim od strane Skupštine Udruženja.
+4. je član Skupštine Udruženja po funkciji;
+5. potpisuje opšta akta i odluke Skupštine;
+6. predstavlja ovlašćeno lice Udruženja za vođenje materijalnog i finansijskog poslovanja Udruženja;
+7. vrši nadzor nad rukovođenjem finansija Udruženja;
+8. po sopstvenoj volji organizuje i određuje unutrašnju podelu rada Upravnog odbora;
+9. vrši ostale poslove predviđene ovim Statutom i Zakonom, ili dodeljenim od strane Skupštine Udruženja.
 
 
 ## Član 20.
@@ -262,10 +263,11 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 1. odgovoran je za funkcionisanje operativnih poslova unutar Udruženja;
 2. zakazuje redovne sastanke Izvršnog odbora;
 3. po potrebi zakazuje sastanke između članova Udruženja;
-4. bira i razrešava članove Izvršnog odbora Udruženja;
-5. snosi konačnu odgovornost za izvršenje godišnjeg plana rada;
-6. po sopstvenoj volji organizuje i određuje unutrašnju podelu rada Izvršnog odbora;
-7. vrši i druge poslove utvrđene Zakonom, ovim Statutom i odlukama Skupštine.
+4. je član Skupštine Udruženja po funkciji;
+5. bira i razrešava članove Izvršnog odbora Udruženja;
+6. snosi konačnu odgovornost za izvršenje godišnjeg plana rada;
+7. po sopstvenoj volji organizuje i određuje unutrašnju podelu rada Izvršnog odbora;
+8. vrši i druge poslove utvrđene Zakonom, ovim Statutom i odlukama Skupštine.
 
 ## Član 22.
 * Generalni sekretar Udruženja je član Upravnog odbora Udruženja sa specijalnim nadležnostima i zadacima.
@@ -280,12 +282,13 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 **Generalni sekretar Udruženja:**
 1. aktivno vodi evidenciju o materijalnom i finansijskom poslovanju Udruženja i redovno obavedava Predsednika Upravnog odbora o finansijskom i imovinskom stanju Udruženja;
 2. vodi redovnu evidenciju o članstvu u skladu sa Zakonom o udruženjima, i dostavlja Skupštini Udruženja aktuelnu evidenciju o članstvu najkasnije do 30. novembra za tekuću školsku godinu;
-3. podnosi finansijski izveštaj na redovnim sednicama Skupštine udruženja i javno ga objavljuje posredstvom kanala komunikacije Udruženja;
-4. predlaže dnevni red redovnih i vanrednih Skupština, uz prikupljanje kandidatura članova za funkcije u organima i Skupštini Udruženja;
-5. vodi evidenciju o donetim odlukama sa sednica Skupštine;
-6. prati prisutnost članova na sednicama Skupštine i registruje odsustva u zapisniku;
-7. odlučuje o pokretanju postupka za naknadu štete u slučajevima iz člana 25. stav 2. Zakona o udruženjima i, po potrebi, određuje posebnog zastupnika udruženja za taj postupak;
-8. vrši ostale poslove predviđene odlukom Skupštine, ovim Statutom i Zakonom.
+3. je član Skupštine Udruženja po funkciji;
+4. podnosi finansijski izveštaj na redovnim sednicama Skupštine udruženja i javno ga objavljuje posredstvom kanala komunikacije Udruženja;
+5. predlaže dnevni red redovnih i vanrednih Skupština, uz prikupljanje kandidatura članova za funkcije u organima i Skupštini Udruženja;
+6. vodi evidenciju o donetim odlukama sa sednica Skupštine;
+7. prati prisutnost članova na sednicama Skupštine i registruje odsustva u zapisniku;
+8. odlučuje o pokretanju postupka za naknadu štete u slučajevima iz člana 25. stav 2. Zakona o udruženjima i, po potrebi, određuje posebnog zastupnika udruženja za taj postupak;
+9. vrši ostale poslove predviđene odlukom Skupštine, ovim Statutom i Zakonom.
 
 ## Član 22b.
 * Sekretarijat funkcioniše kao savetodavno telo koje pruža podršku Generalnom sekretaru u ispunjavanju njegovih obaveza.
