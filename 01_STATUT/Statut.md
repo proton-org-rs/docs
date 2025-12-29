@@ -230,6 +230,13 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 * Primljeno punomoćje ne može se proslediti trećem članu Skupštine.
 * Punomoćje važi isključivo za sednicu za koju je izdato.
 
+## Član 17c.
+* Od trenutka raspisivanja izbora za funkcionere Udruženja (Predsednik Upravnog odbora, Predsednik Izvršnog odbora i Generalni sekretar) pa do potvrđivanja zapisnika Skupštine o konačnom izboru, mandat svih aktuelnih funkcionera prelazi u tehnički mandat ograničen na tekuće poslove i obezbeđivanje zakonitosti i kontinuiteta rada.
+* Generalni sekretar u tehničkom mandatu obavlja isključivo administrativne i evidencione radnje u vezi sa već planiranim poslovima i izbornim procesom, u okviru usvojenog finansijskog plana i zakonskih rokova; ne preuzima ovlašćenja za raspolaganje sredstvima niti potpisivanje finansijskih dokumenata koja prema Statutu pripadaju Predsedniku Upravnog odbora, osim ako je to nužno radi sprečavanja štete ili ispunjenja zakonske obaveze i uz saglasnost Predsednika Upravnog odbora.
+* Ako je Generalni sekretar kandidat u toku izbornog procesa, izuzima se iz sprovođenja izbornog procesa i prenosi tehničku organizaciju i nadzor nad izborima na punopravnog člana koji nije kandidat, koga imenuje Predsednik Upravnog odbora uz obavezu potvrđivanja na prvoj narednoj sednici Skupštine; Sekretarijat pruža administrativnu podršku tom licu.
+* Generalni sekretar u tehničkom mandatu obaveštava članove Skupštine o izbornim rokovima i radnjama i obezbeđuje vođenje zapisnika, osim u delovima iz kojih je izuzet zbog kandidature; u tim delovima zapisnik vodi lice iz prethodnog stava.
+* Tehnički mandat svih funkcionera prestaje danom potvrđivanja izbora i stupanja na dužnost novoizabranih funkcionera od strane Skupštine.
+
 ## Član 18.
 * Upravni odbor je upravni organ Udruženja, koji propisuje godišnji plan rada Udruženja i predstavlja Udruženje pred drugim pravnim licima.
 * Mandati članova Upravnog odbora traju isto koliko i mandat Predsednika Upravnog odbora.
