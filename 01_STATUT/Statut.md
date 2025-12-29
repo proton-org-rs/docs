@@ -217,17 +217,17 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 * Inicijativu za izmene u broju članova Skupštine (u slučaju značajnog rasta članstva tokom godine) mogu podneti Predsednik Upravnog odbora, Predsednik Izvršnog odbora, Generalni sekretar ili najmanje jedna trećina članova Skupštine.
 
 ## Član 17b.
-* Punomocje za glasanje na sednici Skupštine može se izdati od strane člana Skupštine u korist drugog člana Skupštine.
-* Punomocje se izdaje obaveštavanjem Generalnog sekretara u pisanoj ili elektronskoj formi najmanje četrdeset osam časova pre planiranog početka sednice.
-* Punomocje se izdaje generalno i primalac punomocja raspolaže glasom po sopstvenom nahođenju.
-* Jedan član Skupštine može primiti najviše dva punomocja.
+* Punomoćje za glasanje na sednici Skupštine može se izdati od strane člana Skupštine u korist drugog člana Skupštine.
+* Punomoćje se izdaje obaveštavanjem Generalnog sekretara u pisanoj ili elektronskoj formi najmanje četrdeset osam časova pre planiranog početka sednice.
+* Punomoćje se izdaje generalno i primalac punomoćja raspolaže glasom po sopstvenom nahođenju.
+* Jedan član Skupštine može primiti najviše dva punomoćja.
 * Na početku sednice, od strane Generalnog sekretara obaveštava se Skupština o tome koji su članovi delegirali svoje glasove drugim članovima.
-* Članovi koji su navedeni kao primaoci punomocja dužni su da verbalno potvrde prihvatanje punomocja.
-* Ukoliko primalac punomocja ne potvrdi prihvatanje ili nije prisutan na sednici, punomocje se smatra nepostojećim za tu sednicu.
-* Prilikom prebrojavanja za utvrđivanje kvoruma, član koji je izdao punomocje računa se kao prisutan isključivo ukoliko je primalac punomocja prisutan na sednici i potvrdio prihvatanje punomocja.
-* Član koji je izdao punomocje može prisustvovati sednici Skupštine sa pravom govora, ali bez prava glasa, s obzirom da punomocje ostaje na snazi.
-* Primljeno punomocje ne može se proslediti trećem članu Skupštine.
-* Punomocje važi isključivo za sednicu za koju je izdato.
+* Članovi koji su navedeni kao primaoci punomoćja dužni su da verbalno potvrde prihvatanje punomoćja.
+* Ukoliko primalac punomoćja ne potvrdi prihvatanje ili nije prisutan na sednici, punomoćje se smatra nepostojećim za tu sednicu.
+* Prilikom prebrojavanja za utvrđivanje kvoruma, član koji je izdao punomoćje računa se kao prisutan isključivo ukoliko je primalac punomoćja prisutan na sednici i potvrdio prihvatanje punomoćja.
+* Član koji je izdao punomoćje može prisustvovati sednici Skupštine sa pravom govora, ali bez prava glasa, s obzirom da punomoćje ostaje na snazi.
+* Primljeno punomoćje ne može se proslediti trećem članu Skupštine.
+* Punomoćje važi isključivo za sednicu za koju je izdato.
 
 ## Član 18.
 * Upravni odbor je upravni organ Udruženja, koji propisuje godišnji plan rada Udruženja i predstavlja Udruženje pred drugim pravnim licima.
