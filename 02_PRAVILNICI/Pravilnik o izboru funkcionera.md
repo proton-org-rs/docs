@@ -26,22 +26,22 @@ Pravilnik se primenjuje na redovne izbore funkcionera, kao i na vanredne izbore 
 ## Član 4.
 * Pasivno biračko pravo za funkciju Predsednika Upravnog odbora imaju svi punopravni članovi Udruženja.
 * Kandidat za funkciju Predsednika Upravnog odbora mora biti student Elektrotehničkog fakulteta Univerziteta u Beogradu.
-* Kandidat ne sme biti više od dva puta bio upisan u istu godinu studija.
+* Kandidat ne sme biti više od dva puta upisan u istu godinu studija.
 * Kandidat mora imati prosečnu ocenu tokom studiranja 7,5 ili višu.
-* Kandidat ne može istovremeno kandidovati se za funkciju Predsednika Izvršnog odbora ili Generalnog sekretara.
+* Kandidat se ne može istovremeno kandidovati za funkciju Predsednika Izvršnog odbora ili Generalnog sekretara.
 
 ## Član 5.
 * Pasivno biračko pravo za funkciju Predsednika Izvršnog odbora imaju svi punopravni članovi Udruženja.
 * Kandidat za funkciju Predsednika Izvršnog odbora mora biti student Elektrotehničkog fakulteta Univerziteta u Beogradu.
-* Kandidat ne sme biti više od dva puta bio upisan u istu godinu studija.
+* Kandidat ne sme biti više od dva puta upisan u istu godinu studija.
 * Kandidat mora imati prosečnu ocenu tokom studiranja 7,5 ili višu.
-* Kandidat ne može istovremeno kandidovati se za funkciju Predsednika Upravnog odbora ili Generalnog sekretara.
+* Kandidat se ne može istovremeno kandidovati za funkciju Predsednika Upravnog odbora ili Generalnog sekretara.
 
 ## Član 6.
 * Kandidata za funkciju Generalnog sekretara predlaže Predsednik Upravnog odbora.
 * Predlog se podnosi nakon izbora Predsednika Upravnog odbora.
 * Kandidat za funkciju Generalnog sekretara mora biti punopravni član Udruženja i student Elektrotehničkog fakulteta Univerziteta u Beogradu.
-* Kandidat ne sme biti više od dva puta bio upisan u istu godinu studija.
+* Kandidat ne sme biti više od dva puta upisan u istu godinu studija.
 * Kandidat mora imati prosečnu ocenu tokom studiranja 7,5 ili višu.
 
 ---
@@ -59,7 +59,7 @@ Pravilnik se primenjuje na redovne izbore funkcionera, kao i na vanredne izbore 
 * Vanredni izbor se sprovodi na prvoj narednoj sednici Skupštine, a najkasnije u roku od trideset dana od dana podnošenja ostavke ili razrešenja.
 * Vanredni izbor za Generalnog sekretara raspisuje se nakon ostavke ili razrešenja, a kandidata predlaže Predsednik Upravnog odbora.
 * Obaveštenje o raspisivanju vanrednih izbora dostavlja se svim članovima Skupštine putem zvanične mejling liste i drugih komunikacionih kanala Udruženja.
-* Obaveštenje sadrži: razlog vanrednih izbora, funkciju za koju se biraju kandidati, datum početka i završetka kandidovanja, datum i vreme održavanja sednice na kojoj se sprovodi glasanje, i uslove za kandidovanje.
+* Obaveštenje sadrži: razlog vanrednih izbora, funkciju za koju se biraju kandidati, datum početka i završetka kandidovanja, datum i vreme održavanja sednice na kojoj se sprovodi glasanje i uslove za kandidovanje.
 
 ---
 
@@ -67,8 +67,8 @@ Pravilnik se primenjuje na redovne izbore funkcionera, kao i na vanredne izbore 
 
 ## Član 9.
 * Kandidatura za funkciju Predsednika Upravnog odbora i Predsednika Izvršnog odbora podnosi se elektronskim putem popunjavanjem zvanične forme za kandidaturu.
-* Forma za kandidaturu sadrži: ime i prezime kandidata, indeks, godinu studija, prosečnu ocenu, izvod stranice "upisi" sa e-student portala, program rada za mandat (do 1000 reči), viziju razvoja Udruženja (do 500 reči), i izjavu o prihvatanju Statuta i drugih akata Udruženja.
-* Kandidat može priložiti biografiju, dokaze o prethodnom angažovanju, i preporuke drugih članova (opciono).
+* Forma za kandidaturu sadrži: ime i prezime kandidata, indeks, godinu studija, prosečnu ocenu, izvod stranice "upisi" sa e-student portala, program rada za mandat (do 1000 reči), viziju razvoja Udruženja (do 500 reči) i izjavu o prihvatanju Statuta i drugih akata Udruženja.
+* Kandidat može priložiti biografiju, dokaze o prethodnom angažovanju i preporuke drugih članova.
 * Prijave se dostavljaju Generalnom sekretaru Udruženja na zvaničnu adresu elektronske pošte određenu u obaveštenju o izboru ili popunjavanjem odgovarajuće elektronske forme.
 * Generalni sekretar potvrđuje prijem prijave kandidatu u roku od dvadeset četiri časa.
 * Za funkciju Generalnog sekretara, kandidata predlaže Predsednik Upravnog odbora podnošenjem pisanog predloga Skupštini.
@@ -77,14 +77,14 @@ Pravilnik se primenjuje na redovne izbore funkcionera, kao i na vanredne izbore 
 * Period kandidovanja za redovne izbore traje deset dana i počinje od dana raspisivanja izbora.
 * Tačan datum početka i završetka perioda kandidovanja utvrđuje se obaveštenjem o raspisivanju izbora.
 * Period kandidovanja za vanredne izbore traje pet dana.
-* Kandidature primljene nakon isteka roka ne razmatraju se.
+* Kandidature primljene nakon isteka roka se ne razmatraju.
 * Generalni sekretar je dužan da u roku od dva dana od zatvaranja kandidovanja objavi listu kandidata koji ispunjavaju uslove.
 * Kandidat koji smatra da je neopravdano odbijen sa liste ima pravo žalbe u roku od dvadeset četiri časa od objavljivanja liste.
 
 ## Član 11.
 * Kandidat je dužan da podnese:
   1. Izvod stranice "upisi" sa e-student portala kao dokaz o ispunjavanju uslova vezanih za upise;
-  2. Izvoj stranice "ispiti" sa e-student portala kao dokaz o ispunjavanju uslova vezanih za prosečnu ocenu;
+  2. Izvod stranice "ispiti" sa e-student portala kao dokaz o ispunjavanju uslova vezanih za prosečnu ocenu;
   3. Program rada za mandat;
   4. Viziju razvoja Udruženja;
   5. Pisanu izjavu o prihvatanju Statuta i drugih akata Udruženja.
@@ -116,7 +116,7 @@ Pravilnik se primenjuje na redovne izbore funkcionera, kao i na vanredne izbore 
 * Glasanje za Generalnog sekretara može se sprovesti javno ili tajno, u zavisnosti od odluke Skupštine na samoj sednici.
 * Pre glasanja, kandidati imaju pravo da predstave svoje programe na sednici Skupštine u trajanju do deset minuta po kandidatu.
 * Nakon predstavljanja, održava se period pitanja i odgovora u trajanju do petnaest minuta po funkciji.
-* Glasanje organizuje i nadzire Generalni sekretar, uz pomoć najmanje dva člana Skupštine koje odredi Predsednik Upravnog odbora ili osoba koja rukovodi sednicom.
+* Glasanje organizuje i nadzire Generalni sekretar, uz pomoć najmanje dva člana Skupštine koje odredi osoba koja rukovodi sednicom.
 
 ## Član 14.
 * Za izbor Predsednika Upravnog odbora i Predsednika Izvršnog odbora potrebna je prosta većina glasova prisutnih članova Skupštine.
@@ -142,7 +142,7 @@ Pravilnik se primenjuje na redovne izbore funkcionera, kao i na vanredne izbore 
 
 ## Član 16.
 * Kandidat ili član Skupštine može podneti žalbu na nepravilnosti u izbornom postupku Skupštini u roku od četrdeset osam časova od objavljivanja rezultata.
-* Žalba se podnosi u pisanoj ili elektronskoj formi Generalnom sekretaru i mora sadržati: razloge za žalbu, dokaze o navodnim nepravilnostima, i potpis podnosioca žalbe.
+* Žalba se podnosi u pisanoj ili elektronskoj formi Generalnom sekretaru i mora sadržati: razloge za žalbu, dokaze o navodnim nepravilnostima i potpis podnosioca žalbe.
 * Skupština razmatra žalbu na prvoj narednoj sednici.
 * Skupština odlučuje o osnovanosti žalbe većinom glasova prisutnih članova.
 * Ukoliko Skupština usvoji žalbu, izbori se mogu poništiti i ponoviti na istoj ili narednoj sednici.
