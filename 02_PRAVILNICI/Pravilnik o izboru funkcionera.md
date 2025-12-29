@@ -50,7 +50,7 @@ Pravilnik se primenjuje na redovne izbore funkcionera, kao i na vanredne izbore 
 
 ## Član 7.
 * Redovne izbore funkcionera raspisuje Generalni sekretar Udruženja zajedno sa izborima za članove Skupštine.
-* Raspisivanje izbora vrši se najkasnije do 15. oktobra tekuće godine.
+* Raspisivanje izbora vrši se najkasnije do 15. dana od početka tekuće akademske godine.
 * Izbori za Predsednika Upravnog odbora i Predsednika Izvršnog odbora sprovode se na prvoj sednici novoizabrane Skupštine.
 * Izbor Generalnog sekretara sprovodi se na istoj sednici nakon izbora Predsednika Upravnog odbora.
 
