@@ -8,7 +8,7 @@ U skladu sa odredbama Statuta Студентске организације Пр
 # OPŠTE ODREDBE
 
 ## Član 1.
-Ovim Pravilnikom utvrđuje se tehničка procedura izbora članova Skupštine Студентске организације Протон Електротехничког факултета у Београду (u daljem tekstu: Udruženje), uslovi kandidovanja, način glasanja, i drugi postupci u vezi sa izborima.
+Ovim Pravilnikom utvrđuje se tehničка procedura izbora članova Skupštine Студентске организације Протон Електротехничког факултета у Београду (u daljem tekstu: Udruženje), uslovi kandidovanja, način glasanja i drugi postupci u vezi sa izborima.
 
 ## Član 2.
 Pravilnik se primenjuje na redovne izbore članova Skupštine, kao i na vanredne izbore raspisane u skladu sa Statutom Udruženja.
@@ -39,7 +39,7 @@ Pravilnik se primenjuje na redovne izbore članova Skupštine, kao i na vanredne
 * Period od raspisivanja izbora do početka kandidovanja ne može biti kraći od sedam dana.
 
 ## Član 5a.
-* Broj mesta u Skupštini koja se popunjavaju na izborima utvrđuje Skupština na osnovu revizije članstva.
+* Broj mesta u Skupštini koja se popunjavaju na izborima utvrđuje Skupština na osnovu revizije članstva, tako da jedan član Skupštine predstavlja ne manje od 5 i ne više od 10 članova Udruženja.
 * Predlog broja mesta podnosi Generalni sekretar na sednici Skupštine održanoj pre raspisivanja izbora.
 * Broj mesta ne može biti veći od maksimalnog broja članova Skupštine utvrđenog Statutom.
 * Ukoliko Skupština nije utvrdila broj mesta pre raspisivanja redovnih izbora, broj mesta jednak je broju članova sa važećim mandatom.
@@ -51,15 +51,15 @@ Pravilnik se primenjuje na redovne izbore članova Skupštine, kao i na vanredne
 
 ## Član 6.
 * Kandidatura se podnosi elektronskim putem popunjavanjem zvanične forme za kandidaturu.
-* Forma za kandidaturu sadrži: ime i prezime kandidata, indeks, godinu studija, prosečnu ocenu, izvod stranice "upisi" sa e-student portala, motivaciono pismo (do 500 reči), i izjavu o prihvatanju Statuta i drugih akata Udruženja.
-* Kandidat može priložiti biografiju, dokaze o prethodnom angažovanju u Udruženju, i preporuke drugih članova (opciono).
+* Forma za kandidaturu sadrži: ime i prezime kandidata, indeks, godinu studija, prosečnu ocenu, izvod stranice "upisi" sa e-student portala, motivaciono pismo (do 500 reči) i izjavu o prihvatanju Statuta i drugih akata Udruženja.
+* Kandidat može priložiti biografiju, dokaze o prethodnom angažovanju u Udruženju, i preporuke drugih članova.
 * Prijave se dostavljaju Generalnom sekretaru Udruženja na zvaničnu adresu elektronske pošte određenu u obaveštenju o izboru ili popunjavanjem odgovarajuće elektronske forme.
 * Generalni sekretar potvrđuje prijem prijave kandidatu u roku od dvadeset četiri časa.
 
 ## Član 7.
 * Period kandidovanja traje pet dana.
 * Tačan datum početka i završetka perioda kandidovanja utvrđuje se obaveštenjem o raspisivanju izbora.
-* Kandidature primljene nakon isteka roka ne razmatraju se.
+* Kandidature primljene nakon isteka roka se ne razmatraju.
 * Generalni sekretar je dužan da u roku od dva dana od zatvaranja kandidovanja objavi listu kandidata koji ispunjavaju uslove.
 * Kandidat koji smatra da je neopravdano odbijen sa liste ima pravo žalbe u roku od dvadeset četiri časa od objavljivanja liste.
 
@@ -71,7 +71,7 @@ Pravilnik se primenjuje na redovne izbore članova Skupštine, kao i na vanredne
 * Period izborne kampanje traje od objavljivanja konačne liste kandidata do početka glasanja.
 * Kandidati imaju pravo da predstave svoje programe i vizije članovima Udruženja putem komunikacionih kanala Udruženja.
 * Svi kandidati imaju pravo na ravnopravan pristup komunikacionim kanalima Udruženja.
-* Zabranjena je negativna izborna kampanja koja podrazumeva napade na druge kandidate, širenje neistinitih informacija, ili diskriminatorsko ponašanje.
+* Zabranjena je negativna izborna kampanja koja podrazumeva napade na druge kandidate, širenje neistinitih informacija ili diskriminatorsko ponašanje.
 * Zabranjena je upotreba resursa Udruženja u izborne svrhe izvan okvira definisanih ovim Pravilnikom.
 * Kandidat koji prekrši pravila izborne kampanje može biti diskvalifikovan odlukom Generalnog sekretara uz obrazloženje.
 * Diskvalikovan kandidat ima pravo žalbe Skupštini.
@@ -113,10 +113,10 @@ Pravilnik se primenjuje na redovne izbore članova Skupštine, kao i na vanredne
 
 ## Član 12.
 * Kandidat ili birač može podneti žalbu na nepravilnosti u izbornom postupku Generalnom sekretaru Udruženja u roku od četrdeset osam časova od objavljivanja rezultata.
-* Žalba se podnosi u pisanoj ili elektronskoj formi i mora sadržati: razloge za žalbu, dokaze o navodnim nepravilnostima, i potpis podnosioca žalbe.
+* Žalba se podnosi u pisanoj ili elektronskoj formi i mora sadržati: razloge za žalbu, dokaze o navodnim nepravilnostima i potpis podnosioca žalbe.
 * Generalni sekretar je dužan da razmotri žalbu i dostavi je Skupštini na odlučivanje na prvoj narednoj sednici.
 * Skupština odlučuje o osnovanosti žalbe većinom glasova prisutnih članova.
-* Ukoliko Skupština usvoji žalbu, izbori se mogu poništiti i ponoviti, ili se mogu preduzeti druge mere u zavisnosti od prirode nepravilnosti.
+* Ukoliko Skupština usvoji žalbu, izbori se mogu poništiti i ponoviti ili se mogu preduzeti druge mere u zavisnosti od prirode nepravilnosti.
 * Odluka Skupštine po žalbi je konačna i protiv nje se ne može uložiti dalji pravni lek unutar Udruženja.
 
 ---
