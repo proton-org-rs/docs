@@ -28,6 +28,7 @@ Pravilnik se primenjuje na redovne izbore funkcionera, kao i na vanredne izbore 
 * Kandidat za funkciju Predsednika Upravnog odbora mora biti student Elektrotehničkog fakulteta Univerziteta u Beogradu.
 * Kandidat ne sme biti više od dva puta upisan u istu godinu studija.
 * Kandidat mora imati prosečnu ocenu tokom studiranja 7,5 ili višu.
+* Kandidat mora imati ostvaren prosek od najmanje 36 ESPB kredita po godini studija u dosadašnjem toku studiranja.
 * Kandidat se ne može istovremeno kandidovati za funkciju Predsednika Izvršnog odbora ili Generalnog sekretara.
 
 ## Član 5.
@@ -35,6 +36,7 @@ Pravilnik se primenjuje na redovne izbore funkcionera, kao i na vanredne izbore 
 * Kandidat za funkciju Predsednika Izvršnog odbora mora biti student Elektrotehničkog fakulteta Univerziteta u Beogradu.
 * Kandidat ne sme biti više od dva puta upisan u istu godinu studija.
 * Kandidat mora imati prosečnu ocenu tokom studiranja 7,5 ili višu.
+* Kandidat mora imati ostvaren prosek od najmanje 36 ESPB kredita po godini studija u dosadašnjem toku studiranja.
 * Kandidat se ne može istovremeno kandidovati za funkciju Predsednika Upravnog odbora ili Generalnog sekretara.
 
 ## Član 6.
@@ -43,6 +45,7 @@ Pravilnik se primenjuje na redovne izbore funkcionera, kao i na vanredne izbore 
 * Kandidat za funkciju Generalnog sekretara mora biti punopravni član Udruženja i student Elektrotehničkog fakulteta Univerziteta u Beogradu.
 * Kandidat ne sme biti više od dva puta upisan u istu godinu studija.
 * Kandidat mora imati prosečnu ocenu tokom studiranja 7,5 ili višu.
+* Kandidat mora imati ostvaren prosek od najmanje 36 ESPB kredita po godini studija u dosadašnjem toku studiranja.
 
 ---
 
