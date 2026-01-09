@@ -127,7 +127,7 @@ Na početku svakog semestra, vrši se revizija spiska članova Udruženja, radi 
 
 ## Član 14.
 * Organi Udruženja utvrđuju se kao Skupština, Upravni odbor sa Predsednikom, Izvršni odbor sa Predsednikom, Generalni sekretar i Sekretarijat.
-* U organe Udruženja mogu biti birani isključivo studenti ETF-a, koji pritom nisu više od dva puta bili upisani u istu godinu studija i imaju prosečnu ocenu tokom studiranja 7,5 ili višu.
+* U organe Udruženja mogu biti birani isključivo studenti ETF-a, koji pritom imaju prosečnu ocenu tokom studiranja 7,5 ili višu.
 * Mandat članova organa upravljanja traje najduže godinu dana.
 * Broj mandata svakog pojedinog člana Udruženja na funkcijama unutar organa Udruženja nije ograničen.
 * Predsednik Upravnog odbora i Predsednik Izvršnog odbora biraju se i razrešavaju od strane Skupštine Udruženja.
